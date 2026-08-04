@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>My New Hugo Project</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content on My New Hugo Project</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Tue, 04 Aug 2026 12:43:49 +0200</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>(Ri)Ciao</title>
+				<link>http://localhost:1313/posts/primo-articolo/</link>
+				<pubDate>Tue, 04 Aug 2026 12:43:49 +0200</pubDate>
+				<guid>http://localhost:1313/posts/primo-articolo/</guid>
+				<description>&lt;p&gt;Sono passati 20 anni da quando lanciai &lt;a href=&#34;https://andreaguida.wordpress.com/2006/05/22/hello-world/&#34;&gt;il mio blogghetto personale dedicato alla tecnologia&lt;/a&gt;. Avevo 17 anni, ora 38. Non so perché, ma ci riprovo. &lt;/p&gt;&#xA;&lt;p&gt;Cioè… sono 19 anni che non ho un mio sito. Fa strano scriverlo. E fa strano farlo ora che siamo tutti vassalli del feudalesimo digitale di Meta e compagni. &lt;/p&gt;&#xA;&lt;p&gt;Comunque su, vediamo come va stavolta…&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>
