@@ -1,4 +1,7 @@
 baseURL = "https://andreaguida.github.io/sitoandrea/"
 locale = 'it-IT'
 title = 'Andrea Guida'
-theme = "ritzy"
+theme = "anatole"
+
+[params]
+  profilePicture = "images/profile.jpg"
