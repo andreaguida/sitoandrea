@@ -1,4 +1,4 @@
-baseURL = "https://andreaguida.github.io/sitoandrea/"
+baseURL = "https://andreaguida.me"
 locale = 'it-IT'
 title = 'Andrea Guida'
 theme = "anatole"
