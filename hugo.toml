@@ -10,6 +10,7 @@ theme = "anatole"
 [params.umami]
   serverURL = "cloud.umami.is"
   id = "2e1f4a79-df68-4fac-a426-38ee9831674d"
+  trackerScriptName = "script.js"
 
 [[params.socialIcons]]
   icon = "fa-brands fa-mastodon"
