@@ -5,7 +5,7 @@ draft: false
 description: "Come mi sono ritrovato tra dungeon e cespugli"
 ---
 
-![Elliot](elliot.jpeg)
+![Elliot](/posts/elliot.jpeg)
 
 Ci si può sentire così stanchi — così sopraffatti dalla vita — da non riuscire ad accendere la console e giocare un po’ ai videogame?
 A me è successo. Anzi, succede spesso. 
