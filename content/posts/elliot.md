@@ -22,3 +22,5 @@ Un gioco immediato con una grafica che non vuole fingersi realtà. Cazzo sì! Se
 La demo dura tipo 2 ore e mezza. Certo, la versione completa l’ho pagata 70€ su Switch 2, ma li vale tutti per quello che mi sta regalando da oltre 10 ore (pare ne duri una trentina in tutto).
 
 _Grazie, Elliot!_ 
+
+**Aggiornamento:** finito il gioco e resta un leggero senso di incompiuto. La storia resta fin troppo aperta in vista di un auspicabile seguito. Il boss finale non sembrava tale per la semplicità con cui si riesce a battere. Insomma, si poteva fare un po' di più, ma resta un gioco che consiglio a tutti gli appassionati del genere e a cui devo molte ore di divertimento. 8.5/10 se dovessi dare un voto. 
