@@ -6,6 +6,7 @@ theme = "anatole"
 [params]
   profilePicture = "images/profile.jpg"
   description = "Blatero di roba tecnologica da più di 20 anni e non ho intenzione di smettere. Odio l'omologazione e i “lucchetti”, sia digitali che mentali. Resp. editoriale di Aranzulla.it"
+  disableTitleCapitalization = true
 
 [params.umami]
   serverURL = "cloud.umami.is"
