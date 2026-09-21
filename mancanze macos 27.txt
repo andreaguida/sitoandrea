@@ -1,0 +1,14 @@
+---
+title: "macOS e iOS 27: tre cose che mancano ancora (e probabilmente mancheranno sempre)"
+date: 2026-09-21T08:49:00+02:00
+draft: false
+description: "Chiedo troppo?"
+---
+
+![macOS](/posts/IMG_3970.jpeg)
+
+Prima o poi farò un post sul mio setup hardware e software, ad ogni modo sono utente Apple da anni e, in quanto tale, oggi voglio lamentarmi di **3 cose che aspetto da anni e mancano anche nei nuovi macOS e iOS 27**.
+
++ **Master password in Password** - dopo la deriva di 1Password che prima ha cestinato la sua ottima applicazione per macOS in favore di una in [Electron](https://news.ycombinator.com/item?id=28143563) (pesante e malfunzionante) e poi ha finanziato un [fanatico alt-right sostenitore della pulizia etnica](https://www.alilleybrinker.com/blog/1password-funds-ethnic-cleansing/), sono passato ad Apple Password (e [Uplock](https://apps.apple.com/it/app/uplock/id6469049274), per licenze software, documenti ecc.). Mi ci trovo bene (perché lavoro prevalentemente su piattaforma Apple) ma c'è una cosa che proprio non mi va giù: per accedere alle password basta inserire il PIN del dispositivo in uso (o usare lo sblocco biometrico). Per sistemare questa falla di sicurezza basterebbe introdurre una master password come qualsiasi altro password manager. Invece niente, è dal 2024 che Apple non ci pensa. Peccato.
++ **Link di Mail in Promemoria** - sono anni che c'è [questo simpatico bug](https://talk.macpowerusers.com/t/this-is-so-irritating-broken-mail-links-in-reminders/): se si condivide una mail in Promemoria selezionando una parte di testo (o l'oggetto), il link non funziona su altri device, oppure apre un messaggio a caso al posto di quello desiderato. Per creare un link funzionante occorre _trascinare_ la mail in Promemoria: operazione assai scomoda, soprattutto su iOS. A corredo di ciò, se in Promemoria si prova a trascinare la mail in un elenco vuoto, il trascinamento non va a buon fine. Basterebbe inserire uno share sheet normale in Mail.
++ **Spotify Connect per Apple Music** - Apple si fa forza del suo ecosistema, che effettivamente laddove funziona è comodissimo (basti pensare a Continuity, clipboard condivisa ecc.). Ebbene, Apple Music, da quando è nato, non ha nulla di ciò: a eccezione dell'uso di AirPlay non è possibile comandare  la riproduzione di un dispositivo da un altro device, non è possibile usare handoff per mandare una traccia su un altro dispositivo ecc. E poi, beh, l'app Musica è di una lentezza devastante. Su quello forse un po' ci lavoreranno, sulle funzioni à la [Spotify Connect](https://support.spotify.com/it/article/spotify-connect/) ne dubito.
